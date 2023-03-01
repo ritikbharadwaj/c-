@@ -3,7 +3,7 @@ using namespace std;
 int main(){
     int arr[100][100],row,col;
 
-    cout<<"enter the number of rows and columns"<<endl;
+    cout<<"Enter the number of rows and columns"<<endl;
     cin>>row>>col;
     
     cout<<"start entering "<<row*col<<" numbers:-"<<endl;
